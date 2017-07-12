@@ -1,3 +1,7 @@
+
+## ** DEPRECREATED **
+Not under active development.
+
 ## librbd: interface to Ceph RADOS block devices
 
 This provides facilities to Create, Delete, Map, and Unmap RBD Images. It
