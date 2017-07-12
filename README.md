@@ -1,5 +1,5 @@
 
-## ** DEPRECREATED **
+## ** EXPERIMENTAL **
 Not under active development.
 
 ## librbd: interface to Ceph RADOS block devices
